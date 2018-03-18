@@ -4,7 +4,7 @@ install:
 - pip install --user awscli
 script:
 - hugo version
-- make deploy
+- deploy
 branches:
   only:
   - master
