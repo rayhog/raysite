@@ -3,8 +3,8 @@ weight: 10
 title: API Reference
 ---
 ![Ray's Flex logo](/images/logo.png)
-# Introduction to Ray's Flex APIs
-Hello Hello HelloHello Hello Hello
+# Introduction to Ray's Super Flex APIs
+# Hello Hello HelloHello Hello Hello
 Hello Hello Hello
 
 Welcome to the Ray's API! lllllllllllll
